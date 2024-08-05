@@ -1,0 +1,34 @@
+ .footer{
+    color: white;
+    background-color: rgb(60, 59, 58);
+    padding: 30px 30px;
+	   
+	}
+	.footer ul li {
+	    list-style-type: none;
+	
+	}
+	.footer .mangxh{
+	    margin: 10px 10px;
+	}
+	.footer .mangxh a{
+	    color: white;
+	}
+	.logofooter{
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    height: 150px;
+	}
+	.logofooter img {
+	    max-width: 100%;
+	    max-height: 100%;
+	}
+	.footer3 ul li{
+	    padding: 16px 16px;
+	}
+	.footer3 ul li a{
+	    text-decoration: none;
+	    color: white;
+	   margin-left: 8px;
+	}
